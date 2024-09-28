@@ -204,9 +204,9 @@ navbar:
     # Archives: 
     #   path: /archives 
     #   icon: fa-regular fa-archive # can be empty
-    Status: 
-      path: https://status.ohevan.com/
-      icon: fa-regular fa-chart-bar
+    Tags:
+      path: /tags
+      icon: fa-solid fa-tags
     Categories:
       path: /categories
       icon: fa-regular fa-list
@@ -217,7 +217,7 @@ navbar:
     #     Github: https://github.com/EvanNotFound/hexo-theme-redefine
     #     Blog: https://ohevan.com
     #     Friends: /friends
-    Links: 
+    FriendLinks: 
       icon: fa-regular fa-link
       submenus:
         Ziyang: https://shinya.click
@@ -227,7 +227,7 @@ navbar:
     # Whether to enable
     enable: true
     # Preload search data when the page loads
-    preload: false
+    preload: true
 # NAVIGATION BAR <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
