@@ -217,7 +217,7 @@ navbar:
     #     Github: https://github.com/EvanNotFound/hexo-theme-redefine
     #     Blog: https://ohevan.com
     #     Friends: /friends
-    FriendLinks: 
+    友链:
       icon: fa-regular fa-link
       submenus:
         Ziyang: https://shinya.click
