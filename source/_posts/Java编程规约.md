@@ -17,8 +17,7 @@ categories:
 2. 方法名、参数名、成员变量和局部变量都统一使用lowerCamelCase风格
 
 3. 如果模块、接口、类和方法使用了设计模式，再命名时要体现出具体模式。  
-
-        例：public cliass OrderFactory;
+        例：public class OrderFactory;
             public class LoginProxy;
                 public class ResourceObserver;
 

@@ -7,7 +7,7 @@ tags:
     - 简单难度
 categories:
     - Java
-    - 算法题
+    - 算法
 ---
 ## 第一篇算法博客，先写个简单的熟悉一下格式
 题目来源于字节青训营稀土掘金网站上的算法题: [题库](https://juejin.cn/problemset?utm_source=school&utm_medium=youthcamp&utm_campaign=examine)
