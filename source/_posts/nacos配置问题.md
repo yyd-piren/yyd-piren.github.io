@@ -1,5 +1,5 @@
 ---
-title: nacos配置问题
+title: springboot中nacos配置问题
 date: 2024-12-21 14:50:21
 tags:
     - nacos
